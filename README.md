@@ -1,5 +1,7 @@
 # git_assignment
 
+ - Inside every folder there is pdf with steps and screensorts.
+
 # Question 1 
 
 Step 1: Create a new Git repository. 
