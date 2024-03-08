@@ -15,4 +15,3 @@ Step 6: Switch back to the original branch
 Step 7: Merge the new branch.
 
 Step 8: Push changes to the original branch
-
